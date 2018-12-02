@@ -1,2 +1,2 @@
 # JavaProject
-Ysed to store Java project
+Used to store Java project
